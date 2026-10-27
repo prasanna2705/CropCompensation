@@ -78,13 +78,3 @@ the Hardhat test accounts imported so you can act as farmer / admin / oracle in 
 6. Open the farmer's *Policy Detail* page — status flips to PAID in real time, with the transaction hash visible.
 7. Open the *Transparency Feed* (auditor/admin) to show the full public event trail.
 
-## What's Left To Do (Weeks 2–5 of the plan)
-
-This scaffold gives you a working skeleton across all three layers, matching the blueprint's
-architecture, DB schema, API design, and contract design exactly. Still ahead of you:
-
-- Wire up real DB migrations tooling (or run `schema.sql` directly, as above).
-- Flesh out validation/error states in the UI.
-- Add the UML diagrams, screenshots, and write the full PDF report (Section Z structure).
-- Deploy to a public testnet (Sepolia) for the final demo/video.
-- Run through the full test-case list (Section X) and record results for your documentation.
