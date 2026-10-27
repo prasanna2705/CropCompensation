@@ -1,0 +1,22 @@
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated build output
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/artifacts/
+**/cache/
+frontend/netlify-publish/
+frontend/netlify-site.zip
+
+# Logs may contain local addresses or development account output
+*.log
+
+# Local Salesforce state/cache
+.sf/
+
+# Local editor settings
+.vscode/
