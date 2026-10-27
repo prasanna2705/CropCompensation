@@ -68,7 +68,7 @@ Open the printed local URL. You'll need MetaMask (or another injected wallet) co
 point at your local Hardhat node (`http://127.0.0.1:8545`, chain id `31337`), with a couple of
 the Hardhat test accounts imported so you can act as farmer / admin / oracle in the demo.
 
-## Demo Flow (matches the assignment's Section Y script)
+## Demo Flow
 
 1. Register an **admin** account → go to *Manage Templates* → connect wallet → fund the reserve → create a template.
 2. Register a **farmer** account → *Browse Policies* → connect a different wallet → purchase a policy.
